@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @interstellar-knight
 - 👀 I’m interested in space!
-- 🌱 I’m currently learning web development
+- 🌱 I'm currently learning the ways of the world and adapting to the same.
 - 📫 How to reach me: just mail me, ("nischayhiremath@gmail.com")
 
 <!---
